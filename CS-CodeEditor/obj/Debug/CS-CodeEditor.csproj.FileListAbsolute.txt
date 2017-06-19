@@ -1,0 +1,9 @@
+D:\CS-CodeEditor\CS-CodeEditor\bin\Debug\CS-CodeEditor.exe.config
+D:\CS-CodeEditor\CS-CodeEditor\bin\Debug\CS-CodeEditor.exe
+D:\CS-CodeEditor\CS-CodeEditor\bin\Debug\CS-CodeEditor.pdb
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS-CodeEditor.csprojResolveAssemblyReference.cache
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS_CodeEditor.Form1.resources
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS_CodeEditor.Properties.Resources.resources
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS-CodeEditor.csproj.GenerateResource.Cache
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS-CodeEditor.exe
+D:\CS-CodeEditor\CS-CodeEditor\obj\Debug\CS-CodeEditor.pdb
